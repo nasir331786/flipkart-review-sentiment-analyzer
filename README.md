@@ -8,7 +8,7 @@ It is designed to help understand customer feedback and support better decision-
 ## 🚀 Live Demo
 
 🔗 Try the application here:  
-[https://flipkart-sentiment-analysis-nypefhplen7wjr3db3336w.streamlit.app/](https://flipkart-sentiment-analysis-nypefhplen7wjr3db3336w.streamlit.app/)
+https://nasir331786-flipkart-review-sentiment-anal-sentiment-app-rr0odo.streamlit.app/
 
 ---
 
