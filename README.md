@@ -71,8 +71,7 @@ Flipkart-Sentiment-Analysis/
 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/Vasanth4321/Flipkart-Sentiment-Analysis.git
-cd Flipkart-Sentiment-Analysis
+git clone https://github.com/nasir331786/flipkart-review-sentiment-analyzer
 ```
 
 2️⃣ **Install dependencies**
